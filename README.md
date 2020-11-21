@@ -6,7 +6,7 @@ Contact: [Linkedin](https://www.linkedin.com/in/leaoerikaleao/)
 
 🦁
 
-### Hi there Olá! 👋
+### Olá! 👋
 
 Eu sou Erika Leão, formada em Sistemas para Internet na UTFPR - Campus Guarapuava. Trabalho atualmente na Prefeitura Municipal de Guarapuava com desenvolvimento de soluções tecnológicas e administrativas para a Secretaria de Educação utilizando PHP com Laravel. Estou estudando javascript e as tecnologias que utilizam esta linguagem.
 
