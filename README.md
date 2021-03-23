@@ -13,3 +13,17 @@ Eu sou Erika Leão, formada em Sistemas para Internet na UTFPR - Campus Guarapua
 Contato: [Linkedin](https://www.linkedin.com/in/leaoerikaleao/)
 
 🦁
+
+<h2>📈 GitHub Stats</h2>
+<a href="https://github.com/leaoerikaleao/leaoerikaleao">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaoerikaleao&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+</a>
+<a href="https://github.com/leaoerikaleao/leaoerikaleao">
+<img align="center" src="https://github-readme-stats.vercel.app/api?usernameleaoerikaleao&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
+</a>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaoerikaleao&theme=bear&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaoerikaleao&layout=compact)](https://github.com/leaoerikaleao/github-readme-stats)
