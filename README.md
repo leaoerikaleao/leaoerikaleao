@@ -6,16 +6,9 @@ Contact: [Linkedin](https://www.linkedin.com/in/leaoerikaleao/)
 
 🦁
 
-### Olá! 👋
-
-Eu sou Erika Leão, formada em Sistemas para Internet na UTFPR - Campus Guarapuava. Trabalho atualmente na Prefeitura Municipal de Guarapuava com desenvolvimento de soluções tecnológicas e administrativas para a Secretaria de Educação utilizando PHP com Laravel. Estou estudando javascript e as tecnologias que utilizam esta linguagem.
-
-Contato: [Linkedin](https://www.linkedin.com/in/leaoerikaleao/)
-
-🦁
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaoerikaleao&layout=compact)](https://github.com/leaoerikaleao/github-readme-stats)
 
 <a href="https://github.com/leaoerikaleao/leaoerikaleao">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leaoerikaleao&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leaoerikaleao&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=E2BFC5e&amp;text_color=E2BFC5&amp;icon_color=EECDC4e&amp;bg_color=803965"/>
 </a>
+
