@@ -14,10 +14,4 @@ Contato: [Linkedin](https://www.linkedin.com/in/leaoerikaleao/)
 
 🦁
 
-<h2>📈 GitHub Stats</h2>
-<a href="https://github.com/leaoerikaleao/leaoerikaleao">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaoerikaleao&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-</a>
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaoerikaleao&layout=compact)](https://github.com/leaoerikaleao/github-readme-stats)
