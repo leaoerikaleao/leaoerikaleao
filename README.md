@@ -9,7 +9,7 @@ I'm Erika Leão, majoraded in Systems for internet at UTFPR - Campus Guarapuava.
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaoerikaleao&layout=compact" />
 </a>
 
-<h2>Find Me:</h1>
+<h2>🦁 Find Me:</h1>
 <a href="https://www.linkedin.com/in/leaoerikaleao/" target="_blank">
 	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
