@@ -1,4 +1,4 @@
-<h1>Hi there</h1> 👋
+<h1>Hi there 👋</h1> 
 
 I'm Erika Leão, majoraded in Systems for internet at UTFPR - Campus Guarapuava. I've been working at City Hall of Guarapuava developing solucions technologicals and administratives to the Departament of Educactional using PHP with Laravel. I'm working now with javascript and technologies that uses this language.
 
