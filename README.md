@@ -9,6 +9,9 @@ Contact: [Linkedin](https://www.linkedin.com/in/leaoerikaleao/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaoerikaleao&layout=compact)](https://github.com/leaoerikaleao/github-readme-stats)
 
 <a href="https://github.com/leaoerikaleao/leaoerikaleao">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leaoerikaleao&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=E2BFC5&amp;text_color=E2BFC5&amp;icon_color=EECDC4&amp;bg_color=803965"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leaoerikaleao&amp;&include_all_commits=true;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=E2BFC5&amp;text_color=E2BFC5&amp;icon_color=EECDC4&amp;bg_color=803965"/>
 </a>
 
+- Include All Commits
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaoerikaleao&include_all_commits=true)
