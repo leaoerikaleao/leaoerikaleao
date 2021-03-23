@@ -3,8 +3,14 @@
 I'm Erika Leão, majoraded in Systems for internet at UTFPR - Campus Guarapuava. I've been working at City Hall of Guarapuava developing solucions technologicals and administratives to the Departament of Educactional using PHP with Laravel. I'm working now with javascript and technologies that uses this language.
 
 Contact me:
-<img alt="Gmail" src="https://img.shields.io/badge/leaoerikaleao@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+  <a href="https://www.linkedin.com/in/leaoerikaleao/" target="_blank">
+	 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/leaoerikaleao" target="_blank">
+	  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  
 🦁
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaoerikaleao&layout=compact)](https://github.com/leaoerikaleao/github-readme-stats)
