@@ -20,5 +20,4 @@ Contato: [Linkedin](https://www.linkedin.com/in/leaoerikaleao/)
 </a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaoerikaleao&theme=bear&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaoerikaleao&layout=compact)](https://github.com/leaoerikaleao/github-readme-stats)
