@@ -16,9 +16,3 @@ I'm Erika Leão, majoraded in Systems for internet at UTFPR - Campus Guarapuava.
 <a href="https://github.com/leaoerikaleao" target="_blank">
 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-  
-<a href="https://github.com/leaoerikaleao" target="_blank">
-	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
